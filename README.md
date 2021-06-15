@@ -1,6 +1,6 @@
 # Sarah_Portfolio
 
-# Project 1: Water Resources: Project Overview 
+# Project 1: 
 * 
 *
 *
@@ -8,7 +8,7 @@
 
 
 
-# Project 2: Community Social Network Analysis: Project Overview
+# Project 2: 
 *
 *
 *
